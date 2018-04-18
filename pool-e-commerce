@@ -1,11 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1>Buy anything bro</h1>
+    <h1>TUNUNUE</h1>
   </head>
 
   <body>
-    <h2>POOL E-COMMERCE LTD</h2>
+    <p1>Buy anything bro</p1>
+    
+    <p2>We sell:</p2>
+
+    <ol>
+      <li>Phones</li>
+          <li>iphones</li>
+          <li>infinix</li>
+          <li>tecno</li>
+          <li>samsung</li>
+      <li>Laptops</li>
+          <li>mac</li>
+          <li>lenovo</li>
+
+    </ol>
   </body>
 
 </html>
